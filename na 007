@@ -26,7 +26,7 @@ Asena.addCommand(
         
         if(message.reply_message.audio){ 
          //ADD /* HERE NOT TO MODIFY AUDIO DURATION
-            options.duration = ɴɪᴊᴀs
+            options.duration = 007007
         //ADD */ HERE NOT TO MODIFY AUDIO DURATION
 
         options.ptt = true // delete this if not need audio as voice always
